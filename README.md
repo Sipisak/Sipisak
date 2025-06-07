@@ -1,7 +1,10 @@
-# Hi!, I'm Mark, a Software Developer 👋🏼:
+<h1 align="left" id="macropower-title">Hey 👋🏼, I'm Mark</h1>
 
+>Software engineer focused on building clean, scalable, and user-friendly apps.
+>
+>Driven by curiosity and a love for shipping real products, I enjoy turning ideas into useful, elegant digital experiences.  
 
-🛜 currently working on my own [webpage]()<br>👨🏼‍🎓 studying applied informatics at University of Hradec Králové<br>
+🛜 Currently working on my own [webpage] and my masters Degree<br>👨🏼‍🎓 Studying applied informatics at University of Hradec Králové<br>
 
 ## ⚡ Technologies :
 
