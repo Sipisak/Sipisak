@@ -4,7 +4,7 @@
 >
 >Driven by curiosity and a love for shipping real products, I enjoy turning ideas into useful, elegant digital experiences.  
 
-🛜 Currently working on my own [webpage] and my masters Degree<br>👨🏼‍🎓 Studying applied informatics at University of Hradec Králové<br>
+🛜 Currently working on my own [webpage]() and my masters Degree<br>👨🏼‍🎓 Studying applied informatics at University of Hradec Králové<br>
 
 ## ⚡ Technologies :
 
