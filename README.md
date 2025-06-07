@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">Hey 👋🏼, I'm Mark.</h1>
+<h1 align="left" id="macropower-title">Hey 👋🏼, I'm Mark</h1>
 
 >Software engineer focused on building clean, scalable, and user-friendly apps.
 >
