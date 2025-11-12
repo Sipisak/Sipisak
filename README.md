@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="left" id="macropower-title">Hey 👋🏼, I'm Mark</h1>
 
-<!--
-**Sipisak/Sipisak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>Software engineer focused on building clean, scalable, and user-friendly apps.
+>
+>Driven by curiosity and a love for shipping real products, I enjoy turning ideas into useful, elegant digital experiences.  
 
-Here are some ideas to get you started:
+🛜 Currently working on my own [webpage]() and my master's Degree<br>👨🏼‍🎓 Studying applied informatics at University of Hradec Králové<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Technologies :
+
+<a href="">
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sipisak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</a>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,java,py,react,git,postman,postgres,mongodb,vscode,idea,linux,docker,figma,wordpress&perline=8" />
+  </a>
+</p>
+
+
+[![](https://visitcount.itsvg.in/api?id=Sipisak&icon=0&color=0)](https://visitcount.itsvg.in)
