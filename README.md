@@ -1,4 +1,5 @@
-<h1 align="left" id="macropower-title">Hey 👋🏼, I'm Mark</h1>
+<img src= "https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hi,%20I%C2%B4m%20Mark&reversal=false&textBg=false&fontAlign=50&animation=twinkling&desc=Software%20Engineer%20|%20Tech%20Enthusiast&descSize=25&fontSize=50&fontAlignY=25&descAlignY=50&section=header" />
+
 
 >Software engineer focused on building clean, scalable, and user-friendly apps.
 >
