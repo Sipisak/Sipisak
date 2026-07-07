@@ -11,7 +11,7 @@
 - 🎓 Ing. / MSc graduate in Applied Informatics from the University of Hradec Králové  
 - 💻 Focused on full-stack development, backend systems, automation, and AI integrations  
 - ⚙️ Experienced with TypeScript, Next.js, React, Java, Python, databases, APIs, and deployment workflows  
-- 🚀 Currently working on AI automation, integrations, and my personal portfolio website  
+- 🚀 Currently working on AI automation, integrations, and my [personal portfolio website](https://mark-portfolio-sandy.vercel.app/) 
 - 🧠 Interested in building products that are useful, reliable, and simple to use  
 
 <br />
